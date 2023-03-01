@@ -1,3 +1,0 @@
-Exercicio aula 02
-
-Adiciona nova funcionalidade a aplicação
